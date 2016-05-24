@@ -1,0 +1,110 @@
+Chronologic VCS simulator copyright 1991-2014
+Contains Synopsys proprietary information.
+Compiler version I-2014.03-2; Runtime version I-2014.03-2;  Apr  6 12:36 2016
+	Test case 1: X = F161
+   5: x = 1
+  10: 	       z = 1
+  15: x = 1
+  20: 	       z = 1
+  25: x = 0
+  30: 	       z = 0
+  35: x = 0
+  40: 	       z = 1
+  45: x = 0
+  50: 	       z = 0
+  55: x = 1
+  60: 	       z = 0
+  65: x = 1
+  70: 	       z = 0
+  75: x = 0
+  80: 	       z = 1
+  85: x = 1
+  90: 	       z = 1
+  95: x = 0
+ 100: 	       z = 0
+ 105: x = 0
+ 110: 	       z = 1
+ 115: x = 0
+ 120: 	       z = 0
+ 125: x = 1
+ 130: 	       z = 0
+ 135: x = 1
+ 140: 	       z = 0
+ 145: x = 1
+ 150: 	       z = 0
+ 155: x = 1
+ 160: 	       z = 0
+ 180: x = 0 reset = 1 clock = 0
+	Test case 2: X = CF0C
+ 185: x = 0
+ 190: 	       z = 0
+ 195: x = 0
+ 200: 	       z = 1
+ 205: x = 1
+ 210: 	       z = 1
+ 215: x = 1
+ 220: 	       z = 1
+ 225: x = 0
+ 230: 	       z = 0
+ 235: x = 0
+ 240: 	       z = 1
+ 245: x = 0
+ 250: 	       z = 0
+ 255: x = 0
+ 260: 	       z = 1
+ 265: x = 1
+ 270: 	       z = 1
+ 275: x = 1
+ 280: 	       z = 1
+ 285: x = 1
+ 290: 	       z = 1
+ 295: x = 1
+ 300: 	       z = 1
+ 305: x = 0
+ 310: 	       z = 0
+ 315: x = 0
+ 320: 	       z = 1
+ 325: x = 1
+ 330: 	       z = 1
+ 335: x = 1
+ 340: 	       z = 1
+ 360: x = 0 reset = 1 clock = 0
+	Test case 3: X = 8C00
+ 365: x = 0
+ 370: 	       z = 0
+ 375: x = 0
+ 380: 	       z = 1
+ 385: x = 0
+ 390: 	       z = 0
+ 395: x = 0
+ 400: 	       z = 1
+ 405: x = 0
+ 410: 	       z = 0
+ 415: x = 0
+ 420: 	       z = 1
+ 425: x = 0
+ 430: 	       z = 0
+ 435: x = 0
+ 440: 	       z = 1
+ 445: x = 0
+ 450: 	       z = 0
+ 455: x = 0
+ 460: 	       z = 1
+ 465: x = 1
+ 470: 	       z = 1
+ 475: x = 1
+ 480: 	       z = 1
+ 485: x = 0
+ 490: 	       z = 0
+ 495: x = 0
+ 500: 	       z = 1
+ 505: x = 0
+ 510: 	       z = 0
+ 515: x = 1
+ 520: 	       z = 0
+$finish called from file "nrzi_testbench.v", line 137.
+$finish at simulation time                  530
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 530
+CPU Time:      0.510 seconds;       Data structure size:   0.0Mb
+Wed Apr  6 12:36:28 2016
