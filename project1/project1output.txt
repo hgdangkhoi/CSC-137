@@ -1,0 +1,15 @@
+Chronologic VCS simulator copyright 1991-2014
+Contains Synopsys proprietary information.
+Compiler version I-2014.03-2; Runtime version I-2014.03-2;  Mar  7 21:39 2016
+Time         a         b  ci   co         s
+   0  00000010  00000011   0   00  00000101
+  10  00000000  11111111   1   11  00000000
+  20  01010101  10101010   0   00  11111111
+  30  01010101  10101010   1   11  00000000
+  40  11111111  11111111   1   11  11111111
+$finish called from file "testerCPA8bit.v", line 24.
+$finish at simulation time                   50
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 50
+CPU Time:      0.550 seconds;       Data structure size:   0.0Mb
+Mon Mar  7 21:39:56 2016
